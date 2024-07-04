@@ -1,0 +1,3 @@
+/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Servers/build/CMakeFiles/Servers.dir
+/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Servers/build/CMakeFiles/edit_cache.dir
+/home/ernest/Documents/VSCode/Curso_Sistemas_Operativos/Ejercicios/OS-Ejercicios/Servers/build/CMakeFiles/rebuild_cache.dir

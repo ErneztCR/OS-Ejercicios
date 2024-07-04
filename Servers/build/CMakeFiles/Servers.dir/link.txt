@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Servers.dir/base_socket.c.o CMakeFiles/Servers.dir/main.c.o CMakeFiles/Servers.dir/request_handler.c.o CMakeFiles/Servers.dir/shared.c.o -o Servers 
